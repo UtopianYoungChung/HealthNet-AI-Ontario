@@ -224,7 +224,7 @@ export default function Home() {
                     placeholder={
                       loading
                         ? 'Waiting for response...'
-                        : 'Tell me about C778?'
+                        : 'Tell me about Ontario Health Insurance Plan.'
                     }
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChainAI. Demo built by HealthNet Ontario.
+            Powered by LangChainAI. Demo built by INF453 - Group 8.
           </a>
         </footer>
       </Layout>
