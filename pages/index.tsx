@@ -261,7 +261,7 @@ export default function Home() {
           </main>
         </div>
         <footer className="m-auto p-4">
-          <a href="https://twitter.com/mayowaoshin">
+          <a href="https://github.com/UtopianYoungChung/HealthNet_Ontario.git">
             Powered by LangChainAI. Demo built by INF453 - Group 8.
           </a>
         </footer>
